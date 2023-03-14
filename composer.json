@@ -1,0 +1,13 @@
+{
+    "name": "onetarek/test-phpunit",
+    "description": "Playing with phpunit testing",
+    "authors": [
+        {
+            "name": "onetarek",
+            "email": "onetarek@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
