@@ -1,0 +1,10 @@
+phpunit.bat
+bin
+phpunit.xml.dist
+.DS_Store
+__DS_STORE
+.DS_STORE
+/vendor
+/composer
+/composer.json
+/composer.lock
